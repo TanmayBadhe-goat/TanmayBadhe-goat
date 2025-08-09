@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Tanmay Badhe 👋
+🎓 BTech in Artificial Intelligence & Data Science (AI & DS) at Shah and Anchor Engineering College  
+💡 Passionate about AI, Cloud Computing, and Full-Stack Development
 
-<!--
-**TanmayBadhe-goat/TanmayBadhe-goat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Skills
+- *Languages:* Python, C, Java  
+- *Tools & Platforms:* AWS, Git, GitHub  
+- *Special Interests:* Data Structures & Algorithms, Generative AI, Cloud Applications
 
-Here are some ideas to get you started:
+## 🎓 Education
+- BTech in AI & DS – Shah and Anchor Engineering College (2024–2028)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- *🎨 Java Color Guesser Game* – A fun game where the player guesses the color using Java Swing.  
+- *🔢 C Programming Mini Project* – Basic C programs demonstrating arrays, loops, and file handling.  
+- *🤖 AWS Generative AI Demo* – Small-scale AI chatbot using AWS tools.
+
+# 📫 Contact Me
+- [LinkedIn](www.linkedin.com/in/tanmay-badhe-784980374)
+- Email: tanmay.badhe24@sakec.ac.in
