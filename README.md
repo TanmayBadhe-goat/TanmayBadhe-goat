@@ -14,6 +14,8 @@
 - Farmer’s Crop Advisor App
 Developed a cross-platform Flask/React Native app leveraging machine learning, generative AI, and REST APIs for real-time plant disease detection, weather insights, and chatbot support—deploying on Render cloud; focused on farmer empowerment, UX, and secure scalable architecture.
 
+- JP Morgans Virtual Internship Files
+
 More Projects on their way 🔜
 
 # 📫 Contact Me
